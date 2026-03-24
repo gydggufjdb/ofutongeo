@@ -1,0 +1,5 @@
+title: My Blog
+description: シンプルなブログ
+url: "https://yourusername.github.io"
+permalink: /posts/:year/:month/:day/:title/
+markdown: kramdown
