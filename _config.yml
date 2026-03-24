@@ -1,6 +1,6 @@
-title: My Blog
+title: ほのぼの日記/むくり/横転/萌え/エモ/物語/ノベル/遊泳/読書/創作/おひるね/おさんぽ
 description: シンプルなブログ
 url: "https://gydggufjdb.github.io"
 baseurl: "/ofutongeo"
-permalink: /posts/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
