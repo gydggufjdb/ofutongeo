@@ -1,5 +1,6 @@
 title: My Blog
 description: シンプルなブログ
-url: "https://yourusername.github.io"
+url: "https://gydggufjdb.github.io"
+baseurl: "/ofutongeo"
 permalink: /posts/:year/:month/:day/:title/
 markdown: kramdown
