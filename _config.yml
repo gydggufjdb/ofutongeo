@@ -3,3 +3,4 @@ description: ほのぼの日記/むくり/横転/萌え/エモ/物語/ノベル/
 url: "https://gydggufjdb.github.io"
 baseurl: "/ofutongeo"
 markdown: kramdown
+future: true
